@@ -1,0 +1,88 @@
+
+{Line}:#22
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:22: in main chunk	
+
+{Line}:#22
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:22: in main chunk	
+
+{Line}:#22
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:22: in main chunk	
+
+{Line}:#21
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:21: in main chunk	
+
+{Line}:#21
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:21: in main chunk	
+
+{Line}:#21
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:21: in main chunk	
+
+{Line}:#21
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:21: in main chunk	
+
+{Line}:#21
+{File}:[string "..."]:
+----------------------
+ 
+{Attempt to}: _get table 
+{Kind}:variable(local)
+{Name}:'server'
+{Type}:null
+调用栈
+	[string "..."]:21: in main chunk	

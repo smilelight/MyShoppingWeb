@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="我的网站1" libEmbed="true" icon="..." ui="console" output="我的网站1.exe" CompanyName="单位名称" FileDescription="我的网站1" LegalCopyright="Copyright (C) 单位名称 2016" ProductName="我的网站1" InternalName="我的网站1" FileVersion="0.0.0.1" ProductVersion="0.0.0.1" publishDir="/Publish/" dstrip="false">
+	<file name="main" path="main.aardio" comment="启动程序代码"/>
+	<folder name="资源文件" path="res" embed="true"/>
+	<folder name="light" path="light" comment="目录" embed="false">
+		<file name="admin.aardio" path="light\admin.aardio" comment="light\admin.aardio"/>
+		<file name="detail.aardio" path="light\detail.aardio" comment="light\detail.aardio"/>
+		<file name="index.aardio" path="light\index.aardio" comment="light\index.aardio"/>
+		<file name="login.aardio" path="light\login.aardio" comment="light\login.aardio"/>
+		<file name="response.aardio" path="light\response.aardio" comment="light\response.aardio"/>
+		<file name="session.aardio" path="light\session.aardio" comment="light\session.aardio"/>
+		<file name="test.aardio" path="light\test.aardio" comment="light\test.aardio"/>
+		<file name="testdb.aardio" path="light\testdb.aardio" comment="light\testdb.aardio"/>
+		<file name="user.aardio" path="light\user.aardio" comment="light\user.aardio"/>
+		<folder name="css" path="light\css" comment="light\css">
+			<file name="bootstrap.min.css" path="light\css\bootstrap.min.css" comment="light\css\bootstrap.min.css"/>
+		</folder>
+		<folder name="data" path="light\data" comment="light\data" embed="false">
+			<file name="a.json" path="light\data\a.json" comment="light\data\a.json"/>
+		</folder>
+		<folder name="images" path="light\images" comment="light\images" embed="false">
+			<file name="008.jpg" path="light\images\008.jpg" comment="light\images\008.jpg"/>
+			<file name="361运动鞋.jpg" path="light\images\361运动鞋.jpg" comment="light\images\361运动鞋.jpg"/>
+			<file name="lightsmile.png" path="light\images\lightsmile.png" comment="light\images\lightsmile.png"/>
+			<file name="卫龙.jpg" path="light\images\卫龙.jpg" comment="light\images\卫龙.jpg"/>
+			<file name="周黑鸭.jpg" path="light\images\周黑鸭.jpg" comment="light\images\周黑鸭.jpg"/>
+			<file name="李宁运动鞋.jpg" path="light\images\李宁运动鞋.jpg" comment="light\images\李宁运动鞋.jpg"/>
+			<file name="男士内裤.jpg" path="light\images\男士内裤.jpg" comment="light\images\男士内裤.jpg"/>
+			<file name="雷蛇键盘.jpg" path="light\images\雷蛇键盘.jpg" comment="light\images\雷蛇键盘.jpg"/>
+		</folder>
+		<folder name="js" path="light\js" comment="light\js" embed="false">
+			<file name="bootstrap.min.js" path="light\js\bootstrap.min.js" comment="light\js\bootstrap.min.js"/>
+			<file name="jquery-1.11.1.min.js" path="light\js\jquery-1.11.1.min.js" comment="light\js\jquery-1.11.1.min.js"/>
+			<file name="jquery-3.1.1.slim.min.js" path="light\js\jquery-3.1.1.slim.min.js" comment="light\js\jquery-3.1.1.slim.min.js"/>
+			<file name="jquery.spinner.js" path="light\js\jquery.spinner.js" comment="light\js\jquery.spinner.js"/>
+		</folder>
+		<folder name="view" path="light\view" comment="light\view"/>
+		<file name="detailres.aardio" path="light\detailres.aardio" comment="light\detailres.aardio"/>
+		<file name="dealorder.aardio" path="light\dealorder.aardio" comment="light\dealorder.aardio"/>
+	</folder>
+</project>
